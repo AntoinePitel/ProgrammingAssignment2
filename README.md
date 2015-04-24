@@ -1,3 +1,9 @@
+###Notice
+
+This github file is a forked one for Coursera R Programming Assignement 2
+BY AntoinePitel
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
